@@ -62,7 +62,7 @@ global.namaowner = 'Flizz'
 global.myweb = 'api.lolhuman.xyz'
 
 
-global.owner = [ '62895397108647','6281252009563 ]
+global.owner = [ '62895397108647','6281252009563' ]
 
 
 global.premium = []
